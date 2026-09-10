@@ -1,0 +1,36 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets and machine settings
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+credentials*.json
+service-account*.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local reference material, raw data, generated models/results
+reference/
+data/raw/
+data/private/
+models/
+checkpoints/
+outputs/
+logs/
+tmp/
+*.pt
+*.pth
+*.ckpt
+*.joblib
