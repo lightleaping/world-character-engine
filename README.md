@@ -64,11 +64,10 @@ python test_character_engine.py
 | [엔진 코드](character_engine.py) | 상태 생성, 행동 검증·실행, 결과 기반 대사 |
 | [자동 테스트](test_character_engine.py) | 성공·실패·중복·상태 불변 13개 검사 |
 | [1회차 학습 설명](docs/ROUND-01-LEARNING-GUIDE.md) | 설계 이유, 실수, 검증 범위, 다음 단계 |
-| [상세 계획](docs/PROJECT-PLAN.md) | 전체 구현 범위와 평가 원칙 |
 | [진행 기록](PROGRESS.md) | 회차별 구현·실행·이해 확인 상태 |
 
 실험 결과는 데이터·평가 조건·커밋과 함께 추가하고, 본인 구현 범위는 코드와 리뷰 기록으로 남깁니다.
 
 ---
 
-[김수진 · 전체 포트폴리오](https://github.com/lightleaping) · [작업 기록 양식](docs/RECORD-TEMPLATE.md)
+[김수진 · 전체 포트폴리오](https://github.com/lightleaping)
